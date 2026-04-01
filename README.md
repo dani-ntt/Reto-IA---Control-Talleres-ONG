@@ -10,10 +10,10 @@
 
 > Coloca tus PDFs en alguna carpeta (por ejemplo `docs/pdf/`) y ajusta las rutas de los enlaces.
 
-- 📋 <b><a href="../docs/Análisis funcional y de requisitos.docx">Análisis de requisitos</a></b>
-- 👤 <b><a href="../docs/Historias de Usuario.docx">Historias de usuario</a></b>
-- 🛠️ <b><a href="../docs/Diseño y propuesta.docx">Diseño técnico y propuesta tecnológica</a></b>
-- 📝 <b><a href="../docs/Plan de Pruebas.docx">Diseño técnico y propuesta tecnológica</a></b>
+- 📋 <b><a href="/docs/Análisis funcional y de requisitos.docx">Análisis de requisitos</a></b>
+- 👤 <b><a href="/docs/Historias de Usuario.docx">Historias de usuario</a></b>
+- 🛠️ <b><a href="/docs/Diseño y propuesta.docx">Diseño técnico y propuesta tecnológica</a></b>
+- 📝 <b><a href="/docs/Plan de Pruebas.docx">Plan de Pruebas</a></b>
 
 ---
 
@@ -21,22 +21,22 @@
 
 <p align="center">
   <b>Pantalla de Login</b><br>
-  <img src="../docs/screenshots/inicio.png" alt="Pantalla de Login" width="800" /><br>
+  <img src="/docs/screenshots/inicio.png" alt="Pantalla de Login" width="800" /><br>
 </p>
 
 <p align="center">
   <b>Panel principal del tutor (bienvenida + formulario + tabla)</b><br>
-  <img src="../docs/screenshots/bienvenida.png" alt="Panel principal del tutor" width="800" /><br>
+  <img src="/docs/screenshots/bienvenida.png" alt="Panel principal del tutor" width="800" /><br>
 </p>
 
 <p align="center">
   <b>Selección de taller con plazas disponibles</b><br>
-  <img src="../docs/screenshots/talleres.png" alt="Selección de taller y plazas" width="800" /><br>
+  <img src="/docs/screenshots/talleres.png" alt="Selección de taller y plazas" width="800" /><br>
 </p>
 
 <p align="center">
   <b>Confirmación de cancelación de inscripción</b><br>
-  <img src="../docs/screenshots/cancelar.png" alt="Confirmación de cancelación de inscripción" width="800" /><br>
+  <img src="/docs/screenshots/cancelar.png" alt="Confirmación de cancelación de inscripción" width="800" /><br>
 </p>
 
 

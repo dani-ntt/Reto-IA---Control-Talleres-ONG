@@ -10,10 +10,10 @@
 
 
 
-- 📋 <b><a href="/docs/Análisis funcional y de requisitos.docx">Análisis de requisitos</a></b>
-- 👤 <b><a href="/docs/Historias de Usuario.docx">Historias de usuario</a></b>
-- 🛠️ <b><a href="/docs/Diseño y propuesta.docx">Diseño técnico y propuesta tecnológica</a></b>
-- 📝 <b><a href="/docs/Plan de Pruebas.docx">Plan de Pruebas</a></b>
+- 📋 <b><a href="/docs/Análisis funcional y de requisitos.pdf">Análisis de requisitos</a></b>
+- 👤 <b><a href="/docs/Historias de Usuario.pdf">Historias de usuario</a></b>
+- 🛠️ <b><a href="/docs/Diseño y propuesta.pdf">Diseño técnico y propuesta tecnológica</a></b>
+- 📝 <b><a href="/docs/Plan de Pruebas.pdf">Plan de Pruebas</a></b>
 
 ---
 

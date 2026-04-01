@@ -10,9 +10,10 @@
 
 > Coloca tus PDFs en alguna carpeta (por ejemplo `docs/pdf/`) y ajusta las rutas de los enlaces.
 
-- 📋 <b><a href="../Análisis funcional y de requisitos.pdf">Análisis de requisitos</a></b>
-- 👤 <b><a href="../Historias de Usuario.docx">Historias de usuario</a></b>
-- 🛠️ <b><a href="../Diseño y propuesta.docx">Diseño técnico y propuesta tecnológica</a></b>
+- 📋 <b><a href="../docs/Análisis funcional y de requisitos.docx">Análisis de requisitos</a></b>
+- 👤 <b><a href="../docs/Historias de Usuario.docx">Historias de usuario</a></b>
+- 🛠️ <b><a href="../docs/Diseño y propuesta.docx">Diseño técnico y propuesta tecnológica</a></b>
+- 📝 <b><a href="../docs/Plan de Pruebas.docx">Diseño técnico y propuesta tecnológica</a></b>
 
 ---
 

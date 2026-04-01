@@ -64,7 +64,7 @@ repo-root/
 |                         | 🔙 Backend                          | 🔜 Frontend                      |
 |-------------------------|-------------------------------------|----------------------------------|
 | **Instalación**         | `cd backend`<br>`npm install`       | `cd frontend`<br>`npm install`   |
-| **Ejecutar**            | `npm start`                         | `npm start`                      |
+| **Ejecutar**            | `node server.js`                    | `npm start`                      |
 | **Tests Unitarios**     | `npm test`                          | `npm test`                       |
 
 - El frontend se sirve típicamente en `http://localhost:3000`.

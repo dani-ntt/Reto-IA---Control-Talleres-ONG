@@ -65,7 +65,7 @@ repo-root/
 |-------------------------|-------------------------------------|----------------------------------|
 | **Instalación**         | `cd backend`<br>`npm install`       | `cd frontend`<br>`npm install`   |
 | **Ejecutar**            | `npm start`                         | `npm start`                      |
-| **Tests Unitarios**     | _(pendiente de configurar)_         | `npm test`                       |
+| **Tests Unitarios**     | `npm test`                          | `npm test`                       |
 
 - El frontend se sirve típicamente en `http://localhost:3000`.
 - El backend en `http://localhost:3001` (o el puerto configurado en `.env`).

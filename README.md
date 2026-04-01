@@ -20,25 +20,32 @@
 
 <p align="center">
   <b>Pantalla de Login</b><br>
-  <img src="C:\Users\drodcarn\AppData\Local\Temp\temp_image_1775041650053.png" alt="Pantalla de Login" width="800" /><br>
+  <img src="temp_image_1775041650053.png" alt="Pantalla de Login" width="800" /><br>
 </p>
 
 <p align="center">
   <b>Panel principal del tutor (inscripciones + formulario)</b><br>
-  <img src="C:\Users\drodcarn\AppData\Local\Temp\temp_image_1775041702637.png" alt="Panel principal del tutor" width="800" /><br>
+  <img src="temp_image_1775041702637.png" alt="Panel principal del tutor" width="800" /><br>
 </p>
 
 <p align="center">
   <b>Selección de taller con plazas disponibles</b><br>
-  <img src="C:\Users\drodcarn\AppData\Local\Temp\temp_image_1775041717648.png" alt="Selección de taller y plazas" width="800" /><br>
+  <img src="temp_image_1775041717648.png" alt="Selección de taller y plazas" width="800" /><br>
 </p>
 
 <p align="center">
   <b>Confirmación de cancelación de inscripción</b><br>
-  <img src="C:\Users\drodcarn\AppData\Local\Temp\temp_image_1775041734728.png" alt="Confirmación de cancelación de inscripción" width="800" /><br>
+  <img src="temp_image_1775041734728.png" alt="Confirmación de cancelación de inscripción" width="800" /><br>
 </p>
 
+> Guarda las imágenes que has generado (login, panel con inscripciones, selector de taller, diálogo de cancelar) en  
+> `docs/screenshots/` con estos nombres:
+> - `login.png`
+> - `panel-tutor.png`
+> - `seleccion-taller.png`
+> - `cancelacion-inscripcion.png`
 
+---
 
 ## 🌍 Estructura del Proyecto
 
